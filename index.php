@@ -6,6 +6,7 @@
   </head>
   <body>
     <h1>This is Aarick's project</h1>
-  <h3>Hello</h3>
+  <h3>this isvstupid
+  </h3>
   </body>
 </html>
